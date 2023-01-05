@@ -1,0 +1,7 @@
+This is the Chelsea club!
+The max number of members allowed in this club is : 12
+There are 3 members in this club
+Member : Lukaku
+Member : Hazard
+Member : Mourinho
+
