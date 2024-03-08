@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1646095664 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\src\manager.cpp
+	"Manager.h"
+	<iostream>
+	<string>
+
+1646050107 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\include\manager.h
+	<string>
+	<Member.h>
+
+1649015222 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\include\member.h
+	<string>
+
+1649005108 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\src\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1649010252 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\include\player.h
+	<string>
+	<Member.h>
+
+1649015222 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\src\member.cpp
+	"Member.h"
+	<iostream>
+	<string>
+
+1653243377 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"Club.h"
+	"Player.h"
+	"Manager.h"
+
+1653243377 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\include\club.h
+	<string>
+	<vector>
+	<set>
+	"Player.h"
+	"Sponsor.h"
+
+1653249198 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\src\club.cpp
+	"Club.h"
+	<iostream>
+	<string>
+	<vector>
+	<set>
+	<fstream>
+
+1646036504 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\include\sponsor.h
+	<string>
+
+1646036530 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2 semester 2\project\projecttest\src\sponsor.cpp
+	"Sponsor.h"
+	<iostream>
+
